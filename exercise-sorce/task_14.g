@@ -37,7 +37,7 @@ od;
 Print("1. groupの共役類のうち位数がpと素な元を含むものの個数は, リストsimplesの長さと一致することを確認せよ. \n");
 
 if cnt = Length(simples) then
-    Print("長さは同じです.\n");
+    Print("同じです.\n");
 else
-    Print("長さは違います. \n");
+    Print("違います. \n");
 fi;
